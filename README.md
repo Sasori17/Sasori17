@@ -14,7 +14,7 @@ Passionné par le web moderne, les applications performantes et les solutions co
 ## 🚀 À propos de moi
 
 🎓 BTS SIO option SLAM diplômé en 2025  
-🎓 Étudiant en CDA (Conception et Développement d'Application)  
+🎓 Étudiant en CDA (Concepteur et Développeur d'Applications)  
 💻 Développeur orienté Frontend & Fullstack moderne  
 ⚡ Spécialisé en React / Next.js / TypeScript  
 🧠 J’aime créer des projets utiles, rapides et propres  
