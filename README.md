@@ -70,5 +70,5 @@ Passionné par le web moderne, les applications performantes et les solutions co
 ---
 
 <p align="center">
-🔥 Disponible pour alternance, CDI ou freelance
+🔥 Disponible pour freelance
 </p>
