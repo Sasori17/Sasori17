@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Salut, moi c'est Samuel Grangeon</h1>
+<h1 align="center">👋 Salut, moi c'est Samuel Grangeon alias Erlok Grael</h1>
 
 <p align="center">
 Développeur Fullstack • React • Next.js • Symfony • PostgreSQL
